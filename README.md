@@ -7,3 +7,10 @@
 ![Stars](https://img.shields.io/github/stars/dedysteady/Dicoding_iTunes_Search_Web)
 
 Submission Project of "Belajar Fundamental Front-End Web Development" in Dicoding course
+
+## Overview
+Name          : Itunes Search <br>
+Course        : Dicoging - Belajar Fundamental Front-End Web Development <br>
+Learning Path : Front-End Web <br>
+Certificate   : https://www.dicoding.com/certificates/KEXL48D5WXG2 <br>
+
