@@ -10,7 +10,7 @@ Submission Project of "Belajar Fundamental Front-End Web Development" in Dicodin
 
 ## Overview
 Name          : Itunes Search <br>
-Course        : Dicoging - Belajar Fundamental Front-End Web Development <br>
+Course        : Dicoding - Belajar Fundamental Front-End Web Development <br>
 Learning Path : Front-End Web <br>
 Passed        : Mar 31, 2020 <br>
 Certificate   : https://www.dicoding.com/certificates/KEXL48D5WXG2 <br>
